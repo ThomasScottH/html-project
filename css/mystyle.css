@@ -13,11 +13,10 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #F2EBDD;
+  background-color: #18181B;
   position: sticky;
   top: 0;
 }
-
 ul li {
   float: left;
 }
@@ -31,9 +30,9 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color:  #D8C8AE;
+  background-color:  #3F3F46;
 }
 
 ul li a.active {
-  background-color: #8B3038;
+  background-color: #A78BFA;
 }
